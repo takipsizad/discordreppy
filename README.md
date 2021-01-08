@@ -1,5 +1,5 @@
 # discordreppy
-hry
+hey
 commands:
 
 discordrep.getrep(token=token,id=id)
