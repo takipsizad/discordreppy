@@ -5,6 +5,6 @@ setup(name='discordrep',
       description='',
       author='takipsizad',
       packages=['discordrep'],
-      long_description='hey i dont know check url for this library',
+      long_description=open("readme.md"),
       url="https://github.com/takipsizad/discordreppy",
       zip_safe=False)
